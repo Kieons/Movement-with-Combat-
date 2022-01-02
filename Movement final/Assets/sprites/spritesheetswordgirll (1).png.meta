@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: df37d2d38a526e64f8187d43032250e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1331773280794805741
+    second: spritesheetswordgirll (1)_0
+  - first:
+      213: -3982861579623255957
+    second: spritesheetswordgirll (1)_1
+  - first:
+      213: 506459546232507140
+    second: spritesheetswordgirll (1)_2
+  - first:
+      213: 5984453988505243750
+    second: spritesheetswordgirll (1)_3
+  - first:
+      213: 4355506254494103567
+    second: spritesheetswordgirll (1)_4
+  - first:
+      213: 6931655522021954041
+    second: spritesheetswordgirll (1)_5
+  - first:
+      213: 1703256499808554634
+    second: spritesheetswordgirll (1)_6
+  - first:
+      213: -225207073844431872
+    second: spritesheetswordgirll (1)_7
+  - first:
+      213: -7730141826647470726
+    second: spritesheetswordgirll (1)_8
+  - first:
+      213: 8693540707507801084
+    second: spritesheetswordgirll (1)_9
+  - first:
+      213: 7527546518915415858
+    second: spritesheetswordgirll (1)_10
+  - first:
+      213: 7725973873881459949
+    second: spritesheetswordgirll (1)_11
+  - first:
+      213: -6648174770940524268
+    second: spritesheetswordgirll (1)_12
+  - first:
+      213: 5372821536041179847
+    second: spritesheetswordgirll (1)_13
+  - first:
+      213: -8312114724330479295
+    second: spritesheetswordgirll (1)_14
+  - first:
+      213: 374010359192412081
+    second: spritesheetswordgirll (1)_15
+  - first:
+      213: -8562303441513873438
+    second: spritesheetswordgirll (1)_16
+  - first:
+      213: 8332040519597275198
+    second: spritesheetswordgirll (1)_17
+  - first:
+      213: -6791723262324012443
+    second: spritesheetswordgirll (1)_18
+  - first:
+      213: -2266343562163294845
+    second: spritesheetswordgirll (1)_19
+  - first:
+      213: 2225859349494672352
+    second: spritesheetswordgirll (1)_20
+  - first:
+      213: -8656578086524461238
+    second: spritesheetswordgirll (1)_21
+  - first:
+      213: -3839800813006935949
+    second: spritesheetswordgirll (1)_22
+  - first:
+      213: -6577331496413409358
+    second: spritesheetswordgirll (1)_23
+  - first:
+      213: 6606263763374966482
+    second: spritesheetswordgirll (1)_24
+  - first:
+      213: -5993209847414611074
+    second: spritesheetswordgirll (1)_25
+  - first:
+      213: 134158472940729831
+    second: spritesheetswordgirll (1)_26
+  - first:
+      213: 5167637110943078969
+    second: spritesheetswordgirll (1)_27
+  - first:
+      213: -8508958150099768008
+    second: spritesheetswordgirll (1)_28
+  - first:
+      213: -3995698000917426111
+    second: spritesheetswordgirll (1)_29
+  - first:
+      213: -5117345984811552107
+    second: spritesheetswordgirll (1)_30
+  - first:
+      213: -6309729643470618852
+    second: spritesheetswordgirll (1)_31
+  - first:
+      213: 7789532638023808742
+    second: spritesheetswordgirll (1)_32
+  - first:
+      213: -3272349019114585400
+    second: spritesheetswordgirll (1)_33
+  - first:
+      213: -5921301995091359633
+    second: spritesheetswordgirll (1)_34
+  - first:
+      213: 547472969298113927
+    second: spritesheetswordgirll (1)_35
+  - first:
+      213: -6395056055736178123
+    second: spritesheetswordgirll (1)_36
+  - first:
+      213: 1538705669300601042
+    second: spritesheetswordgirll (1)_37
+  - first:
+      213: -2766351107970899235
+    second: spritesheetswordgirll (1)_38
+  - first:
+      213: -7512322545156798049
+    second: spritesheetswordgirll (1)_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 714
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a7ed4d147948de0800000000000000
+      internalID: -1331773280794805741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 714
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b603105de780ab8c0800000000000000
+      internalID: -3982861579623255957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_2
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 714
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b4b42264e470700800000000000000
+      internalID: 506459546232507140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_3
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 714
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660568f023d0d0350800000000000000
+      internalID: 5984453988505243750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_4
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 714
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08fc1cacddd17c30800000000000000
+      internalID: 4355506254494103567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 614
+        width: 150
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f15e77c8ff223060800000000000000
+      internalID: 6931655522021954041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 614
+        width: 87
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ec67823ce23a710800000000000000
+      internalID: 1703256499808554634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 614
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004f89a0c57efdcf0800000000000000
+      internalID: -225207073844431872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 614
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dc947f6f409b490800000000000000
+      internalID: -7730141826647470726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_9
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 614
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb866f8639a5a870800000000000000
+      internalID: 8693540707507801084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 514
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f7e222da7377860800000000000000
+      internalID: 7527546518915415858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_11
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 514
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec27a8ed4c283b60800000000000000
+      internalID: 7725973873881459949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_12
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 514
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4194065f440fcb3a0800000000000000
+      internalID: -6648174770940524268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_13
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 514
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca9d4978b8109a40800000000000000
+      internalID: 5372821536041179847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_14
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 514
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141ecfb92bf65ac80800000000000000
+      internalID: -8312114724330479295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 414
+        width: 132
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfdaf9a070c03500800000000000000
+      internalID: 374010359192412081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 414
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eff57d82669c2980800000000000000
+      internalID: -8562303441513873438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_17
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 414
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38b1c025ba51a370800000000000000
+      internalID: 8332040519597275198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_18
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 414
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a8b605da3feb1a0800000000000000
+      internalID: -6791723262324012443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_19
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 414
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d634ea9845c80e0800000000000000
+      internalID: -2266343562163294845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 314
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebac960947d3ee10800000000000000
+      internalID: 2225859349494672352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_21
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 314
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f57464818add780800000000000000
+      internalID: -8656578086524461238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_22
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 314
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3782774318946bac0800000000000000
+      internalID: -3839800813006935949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_23
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 314
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf4a4a2adf98b4a0800000000000000
+      internalID: -6577331496413409358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_24
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 314
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6008c24e92eab50800000000000000
+      internalID: 6606263763374966482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 214
+        width: 141
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73aa7ca567d3dca0800000000000000
+      internalID: -5993209847414611074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 214
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5bd3b9b60acd100800000000000000
+      internalID: 134158472940729831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_27
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 214
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a53e5b29227b740800000000000000
+      internalID: 5167637110943078969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_28
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 214
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d63a615ab1ae980800000000000000
+      internalID: -8508958150099768008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_29
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 214
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140149996dd6c88c0800000000000000
+      internalID: -3995698000917426111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 114
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592398e80f88bf8b0800000000000000
+      internalID: -5117345984811552107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 114
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f7e24d1565f68a0800000000000000
+      internalID: -6309729643470618852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_32
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 114
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e678bfd9aaf91c60800000000000000
+      internalID: 7789532638023808742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_33
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 114
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2c39e97e74692d0800000000000000
+      internalID: -3272349019114585400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_34
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 114
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6884c6353f43dda0800000000000000
+      internalID: -5921301995091359633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_35
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 14
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7857423d3c3099700800000000000000
+      internalID: 547472969298113927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_36
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 14
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a622756623047a0800000000000000
+      internalID: -6395056055736178123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_37
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 14
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0ca8067a49a5510800000000000000
+      internalID: 1538705669300601042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_38
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 14
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2e265f252fb99d0800000000000000
+      internalID: -2766351107970899235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheetswordgirll (1)_39
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 14
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9945c9727edeb790800000000000000
+      internalID: -7512322545156798049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
